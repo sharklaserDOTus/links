@@ -16,6 +16,9 @@ https://www.databreaches.net/
 
 Temporary email/phone:
 https://tempophone.com/
-https://www.guerrillamail.com/inbox
-http://www.fakemailgenerator.com/#/teleworm.us
-http://www.fakemailgenerator.com/#/jourrapide.com
+
+https://www.guerrillamail.com/inbox 
+
+http://www.fakemailgenerator.com/#/teleworm.us 
+
+http://www.fakemailgenerator.com/#/jourrapide.com 
