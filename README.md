@@ -3,9 +3,13 @@ abuse IPDB:
 https://www.abuseipdb.com/
 
 Metasploit:
+
 https://github.com/lattera/metasploit/blob/master/documentation/wmap.txt
+
 https://www.tutorialspoint.com/metasploit/metasploit_payload
+
 https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
+
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 
 
@@ -19,9 +23,13 @@ News:
 https://www.databreaches.net/
 
 Temporary email/phone:
+
 https://tempophone.com/
+
 https://www.guerrillamail.com/inbox 
+
 http://www.fakemailgenerator.com/#/teleworm.us 
+
 http://www.fakemailgenerator.com/#/jourrapide.com 
 
 Virtualbox
