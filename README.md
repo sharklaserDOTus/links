@@ -32,21 +32,27 @@ http://www.fakemailgenerator.com/#/teleworm.us
 
 http://www.fakemailgenerator.com/#/jourrapide.com 
 
-Virtualbox
+Virtualbox:
 https://www.smarthomebeginner.com/mount-virtualbox-shared-folder-on-ubuntu-linux/
 
-SQLi
+SQLi:
 http://sqlmap.org/
 
-IP to CIDR
+IP to CIDR: 
 https://ip2cidr.com/
 
-Regex
+Regex: 
 https://www.regextester.com/
 
-Unicode
+Unicode: 
 https://unicode-table.com/en/#spacing-modifier-letters
 
-Books
+Books: 
 https://hackingresources.com/hacking-security-ebooks/
+
+JWT Token Decoder:  
+https://jwt.io/
+
+Google Dorks:
+https://gbhackers.com/latest-google-dorks-list/
 
